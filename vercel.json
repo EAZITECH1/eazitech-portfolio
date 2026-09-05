@@ -1,0 +1,25 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/eazitech_portfolio%20(1).html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/eazitech_portfolio%20(1)",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/eazitech_portfolio.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/eazitech_portfolio",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}
